@@ -1,1 +1,1 @@
-export { PasswordInput } from 'nessie-ui'
+export { PasswordInput } from 'nessie-ui';

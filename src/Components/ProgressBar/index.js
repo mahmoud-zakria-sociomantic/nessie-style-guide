@@ -1,1 +1,1 @@
-export { ProgressBar } from 'nessie-ui'
+export { ProgressBar } from 'nessie-ui';

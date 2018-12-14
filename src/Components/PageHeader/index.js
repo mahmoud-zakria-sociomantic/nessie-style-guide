@@ -1,1 +1,1 @@
-export { PageHeader } from 'nessie-ui'
+export { PageHeader } from 'nessie-ui';

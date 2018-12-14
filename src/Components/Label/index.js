@@ -1,1 +1,1 @@
-export { Label } from 'nessie-ui'
+export { Label } from 'nessie-ui';

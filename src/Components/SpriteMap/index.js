@@ -1,1 +1,1 @@
-export { SpriteMap } from 'nessie-ui'
+export { SpriteMap } from 'nessie-ui';

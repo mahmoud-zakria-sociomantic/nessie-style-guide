@@ -1,1 +1,1 @@
-export { Fieldset } from 'nessie-ui'
+export { Fieldset } from 'nessie-ui';

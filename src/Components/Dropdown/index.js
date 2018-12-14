@@ -1,1 +1,1 @@
-export { Dropdown } from 'nessie-ui'
+export { Dropdown } from 'nessie-ui';

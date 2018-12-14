@@ -1,1 +1,1 @@
-export { ComboBox } from 'nessie-ui'
+export { ComboBox } from 'nessie-ui';

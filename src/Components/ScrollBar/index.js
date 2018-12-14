@@ -1,1 +1,1 @@
-export { ScrollBar } from 'nessie-ui'
+export { ScrollBar } from 'nessie-ui';

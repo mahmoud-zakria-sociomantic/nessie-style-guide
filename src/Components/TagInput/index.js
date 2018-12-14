@@ -1,1 +1,1 @@
-export { TagInput } from 'nessie-ui'
+export { TagInput } from 'nessie-ui';

@@ -1,1 +1,1 @@
-export { DatePicker } from 'nessie-ui'
+export { DatePicker } from 'nessie-ui';

@@ -21,7 +21,7 @@ function loopComponents( Components )
         const componentFolder = `${ COMPONENTS_PATH }${component}`;
         const ComponentTag = component;
         fs.mkdirSync( componentFolder );
-        fs.writeFileSync( `${ componentFolder }/index.js`, `export { ${component} } from 'nessie-ui'` );
+        fs.writeFileSync( `${ componentFolder }/index.js`, `export { ${component} } from 'nessie-ui';` );
     } )
 }
 

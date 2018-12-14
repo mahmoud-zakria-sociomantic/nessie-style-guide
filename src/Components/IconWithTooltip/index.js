@@ -1,1 +1,1 @@
-export { IconWithTooltip } from 'nessie-ui'
+export { IconWithTooltip } from 'nessie-ui';

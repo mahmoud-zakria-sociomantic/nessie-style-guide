@@ -1,1 +1,1 @@
-export { MessageBox } from 'nessie-ui'
+export { MessageBox } from 'nessie-ui';

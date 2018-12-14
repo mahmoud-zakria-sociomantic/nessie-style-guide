@@ -1,1 +1,1 @@
-export { Tag } from 'nessie-ui'
+export { Tag } from 'nessie-ui';

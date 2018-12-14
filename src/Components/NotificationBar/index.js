@@ -1,1 +1,1 @@
-export { NotificationBar } from 'nessie-ui'
+export { NotificationBar } from 'nessie-ui';

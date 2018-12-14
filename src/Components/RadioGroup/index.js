@@ -1,1 +1,1 @@
-export { RadioGroup } from 'nessie-ui'
+export { RadioGroup } from 'nessie-ui';

@@ -1,1 +1,1 @@
-export { SliderGroup } from 'nessie-ui'
+export { SliderGroup } from 'nessie-ui';

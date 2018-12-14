@@ -1,1 +1,1 @@
-export { ModalDialog } from 'nessie-ui'
+export { ModalDialog } from 'nessie-ui';

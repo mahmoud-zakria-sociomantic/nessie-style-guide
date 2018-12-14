@@ -1,1 +1,1 @@
-export { Grid } from 'nessie-ui'
+export { Grid } from 'nessie-ui';

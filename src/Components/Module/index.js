@@ -1,1 +1,1 @@
-export { Module } from 'nessie-ui'
+export { Module } from 'nessie-ui';

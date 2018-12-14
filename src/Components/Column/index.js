@@ -1,1 +1,1 @@
-export { Column } from 'nessie-ui'
+export { Column } from 'nessie-ui';

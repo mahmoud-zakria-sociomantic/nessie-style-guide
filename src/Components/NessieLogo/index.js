@@ -1,1 +1,1 @@
-export { NessieLogo } from 'nessie-ui'
+export { NessieLogo } from 'nessie-ui';

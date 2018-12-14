@@ -1,1 +1,1 @@
-export { Checkbox } from 'nessie-ui'
+export { Checkbox } from 'nessie-ui';

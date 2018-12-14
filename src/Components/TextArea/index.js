@@ -1,1 +1,1 @@
-export { TextArea } from 'nessie-ui'
+export { TextArea } from 'nessie-ui';

@@ -1,1 +1,1 @@
-export { Paginator } from 'nessie-ui'
+export { Paginator } from 'nessie-ui';

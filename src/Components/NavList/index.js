@@ -1,1 +1,1 @@
-export { NavList } from 'nessie-ui'
+export { NavList } from 'nessie-ui';

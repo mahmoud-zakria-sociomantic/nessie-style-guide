@@ -1,1 +1,1 @@
-export { H4 } from 'nessie-ui'
+export { H4 } from 'nessie-ui';

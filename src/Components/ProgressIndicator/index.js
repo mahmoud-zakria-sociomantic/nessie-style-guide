@@ -1,1 +1,1 @@
-export { ProgressIndicator } from 'nessie-ui'
+export { ProgressIndicator } from 'nessie-ui';

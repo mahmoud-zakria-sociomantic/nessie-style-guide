@@ -1,1 +1,1 @@
-export { CheckableGroup } from 'nessie-ui'
+export { CheckableGroup } from 'nessie-ui';

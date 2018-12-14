@@ -1,1 +1,1 @@
-export { Section } from 'nessie-ui'
+export { Section } from 'nessie-ui';

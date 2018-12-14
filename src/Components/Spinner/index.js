@@ -1,1 +1,1 @@
-export { Spinner } from 'nessie-ui'
+export { Spinner } from 'nessie-ui';

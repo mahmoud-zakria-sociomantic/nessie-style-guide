@@ -1,1 +1,1 @@
-export { Tabs } from 'nessie-ui'
+export { Tabs } from 'nessie-ui';

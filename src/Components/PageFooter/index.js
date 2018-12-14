@@ -1,1 +1,1 @@
-export { PageFooter } from 'nessie-ui'
+export { PageFooter } from 'nessie-ui';

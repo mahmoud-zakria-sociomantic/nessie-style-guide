@@ -1,1 +1,1 @@
-export { TableRow } from 'nessie-ui'
+export { TableRow } from 'nessie-ui';

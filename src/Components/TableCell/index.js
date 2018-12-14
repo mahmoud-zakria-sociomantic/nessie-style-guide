@@ -1,1 +1,1 @@
-export { TableCell } from 'nessie-ui'
+export { TableCell } from 'nessie-ui';

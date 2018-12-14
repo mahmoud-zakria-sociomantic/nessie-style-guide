@@ -1,1 +1,1 @@
-export { DragNDrop } from 'nessie-ui'
+export { DragNDrop } from 'nessie-ui';

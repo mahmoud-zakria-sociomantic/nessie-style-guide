@@ -1,1 +1,1 @@
-export { Tooltip } from 'nessie-ui'
+export { Tooltip } from 'nessie-ui';

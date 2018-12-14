@@ -1,1 +1,1 @@
-export { StatusIndicator } from 'nessie-ui'
+export { StatusIndicator } from 'nessie-ui';

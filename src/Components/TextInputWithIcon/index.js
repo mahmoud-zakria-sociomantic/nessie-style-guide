@@ -1,1 +1,1 @@
-export { TextInputWithIcon } from 'nessie-ui'
+export { TextInputWithIcon } from 'nessie-ui';

@@ -1,1 +1,1 @@
-export { NavDropdown } from 'nessie-ui'
+export { NavDropdown } from 'nessie-ui';

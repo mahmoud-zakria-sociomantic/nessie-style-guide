@@ -1,1 +1,1 @@
-export { DimensionsInput } from 'nessie-ui'
+export { DimensionsInput } from 'nessie-ui';

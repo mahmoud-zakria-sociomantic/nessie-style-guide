@@ -1,1 +1,1 @@
-export { Sorter } from 'nessie-ui'
+export { Sorter } from 'nessie-ui';

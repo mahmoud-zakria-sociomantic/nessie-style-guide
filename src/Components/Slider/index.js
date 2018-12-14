@@ -1,1 +1,1 @@
-export { Slider } from 'nessie-ui'
+export { Slider } from 'nessie-ui';
