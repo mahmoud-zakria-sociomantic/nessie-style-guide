@@ -1,0 +1,1 @@
+export { NessieLogo } from 'nessie-ui'

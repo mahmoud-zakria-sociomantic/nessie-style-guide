@@ -1,0 +1,1 @@
+export { TableRow } from 'nessie-ui'
