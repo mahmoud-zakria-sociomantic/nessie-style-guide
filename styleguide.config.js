@@ -26,8 +26,5 @@ module.exports = {
             name: 'Components',
             components: () => utils.createComponent()
         }
-    ],
-    propsParser(filePath, source, resolver, handlers) {
-       return require('react-docgen').parse(source, resolver, handlers)
-     }
+    ]
 }
