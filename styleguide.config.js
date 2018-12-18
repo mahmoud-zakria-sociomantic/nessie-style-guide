@@ -1,7 +1,6 @@
 const path = require('path');
 const utils = require('./utils');
 
-
 module.exports = {
     usageMode: 'expand',
     title: 'Nessie',
@@ -15,7 +14,13 @@ module.exports = {
             heading1: {
                 color: 'orange'
             }
+        },
+        StyleGuide: {
+
         }
+    },
+    theme: {
+
     },
     sections: [
         {

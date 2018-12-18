@@ -1,4 +1,9 @@
+Simple Button
 ```js
-<Button label="Zaj"></Button>
+<Button>Click me</Button>
+```
 
+Subtle Button
+```js
+<Button role="subtle">Click me</Button>
 ```
