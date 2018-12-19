@@ -2,7 +2,6 @@ const path = require('path');
 const utils = require('./utils');
 
 module.exports = {
-    usageMode: 'expand',
     title: 'Nessie',
     getComponentPathLine(componentPath){
         const dirname = path.dirname(componentPath);
@@ -31,5 +30,8 @@ module.exports = {
             name: 'Components',
             components: () => utils.createComponent()
         }
+    ],
+    require: [
+        path.join(__dirname, 'styles.css')
     ]
 }
